@@ -6,7 +6,6 @@
 [![Gmail](    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox)
 
 ![Esther GitHub stats](https://github-readme-stats.vercel.app/api?username=esthergabrieela&show_icons=true&theme=synthwave)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esthergabrieela)](https://github.com/anuraghazra/github-readme-stats)
 ### Tecnologias que eu uso no meu dia 👾
 
