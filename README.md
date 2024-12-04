@@ -3,10 +3,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/esthergabrieela)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/esthergabriela)
 [![Twich](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twich.tv/esthergabrieela)
-[![Twich](    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/esthergabriela750@gmail.com)
+[![Gmail](    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/esthergabriela750@gmail.com)
 
 ![Esther GitHub stats](https://github-readme-stats.vercel.app/api?username=esthergabrieela&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esthergabrieela&hide_progress=true)
 
 ### Tecnologias que eu uso no meu dia 👾
 
