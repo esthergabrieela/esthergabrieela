@@ -7,6 +7,7 @@
 
 ![Esther GitHub stats](https://github-readme-stats.vercel.app/api?username=esthergabrieela&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esthergabrieela)](https://github.com/anuraghazra/github-readme-stats)
 ### Tecnologias que eu uso no meu dia 👾
 
 <div style="display:inline_block"><br/>
@@ -16,4 +17,4 @@
 <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 </div><br/>
 
-Apaixonada por tecnologia, gostaria de compartilhar u
+Apaixonada por tecnologia, gostaria de compartilhar um pouco do meu aprendizado e desenvolvimento com vocês :)
